@@ -1,6 +1,7 @@
 // SANCHIT GUPTA , Netaji Subhas Institute of Technology, New Delhi
 // Function 1: tf(numerator,denominator) similar to tf() in matlab
 // Function 2: impulse(function, start_time, end_time)
+// Sources : http://spoken-tutorial.org , https://help.scilab.org/docs/5.5.2/en_US/index.html
 // EXAMPLE 1  
 // a = tf([1 2],[4 7 2 2]) ;
 // impulse(a,0,120);

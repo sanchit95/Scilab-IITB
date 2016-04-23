@@ -1,5 +1,5 @@
 // SANCHIT GUPTA , Netaji Subhas Institute of Technology, New Delhi.
-// Function : [Peak_Gain Frequency] = getPeakGain(tf_numerator,tf_denominator,start_frequency, end_frequency)  
+// Function : [Peak_Gain Frequency] = getPeakGain(system,start_frequency, end_frequency)  
 // Sources : http://spoken-tutorial.org , https://help.scilab.org/docs/5.5.2/en_US/index.html
 // EXAMPLE 1
 // [gain frequency] = getPeakGain(tf([1 2],[2 5 7 9]),1,10) 
